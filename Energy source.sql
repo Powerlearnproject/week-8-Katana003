@@ -1,0 +1,1 @@
+SELECT * FROM week8.energysources;
